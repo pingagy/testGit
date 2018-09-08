@@ -2,7 +2,7 @@
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("hello git 3");
+		String aString = "sfsdfsdf";
 		System.out.println("aaaaaaa");
 	}
 
